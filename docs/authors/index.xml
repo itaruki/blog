@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Minimo</title>
-    <link>http://itaruki.github.io/blog/authors/</link>
+    <link>https://itaruki.github.io/blog/authors/</link>
     <description>Recent content in Authors on Minimo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 12 Aug 2018 12:30:00 +0600</lastBuildDate>
     
-	<atom:link href="http://itaruki.github.io/blog/authors/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://itaruki.github.io/blog/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>muniftanjim</title>
-      <link>http://itaruki.github.io/blog/authors/muniftanjim/</link>
+      <link>https://itaruki.github.io/blog/authors/muniftanjim/</link>
       <pubDate>Sun, 12 Aug 2018 12:30:00 +0600</pubDate>
       
-      <guid>http://itaruki.github.io/blog/authors/muniftanjim/</guid>
+      <guid>https://itaruki.github.io/blog/authors/muniftanjim/</guid>
       <description></description>
     </item>
     

@@ -3,245 +3,245 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://itaruki.github.io/blog/</loc>
+    <loc>https://itaruki.github.io/blog/</loc>
     <lastmod>2019-09-28T21:00:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://itaruki.github.io/blog/docs/</loc>
+    <loc>https://itaruki.github.io/blog/docs/</loc>
     <lastmod>2019-09-28T21:00:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://itaruki.github.io/blog/typography/</loc>
+    <loc>https://itaruki.github.io/blog/typography/</loc>
     <lastmod>2017-09-28T08:00:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://itaruki.github.io/blog/about/</loc>
+    <loc>https://itaruki.github.io/blog/about/</loc>
   </url>
   
   <url>
-    <loc>http://itaruki.github.io/blog/authors/</loc>
+    <loc>https://itaruki.github.io/blog/authors/</loc>
     <lastmod>2019-09-28T21:00:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://itaruki.github.io/blog/categories/</loc>
+    <loc>https://itaruki.github.io/blog/categories/</loc>
     <lastmod>2019-09-28T21:00:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://itaruki.github.io/blog/tags/config/</loc>
+    <loc>https://itaruki.github.io/blog/tags/config/</loc>
     <lastmod>2019-09-28T21:00:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://itaruki.github.io/blog/categories/features/</loc>
+    <loc>https://itaruki.github.io/blog/categories/features/</loc>
     <lastmod>2019-09-28T21:00:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://itaruki.github.io/blog/tags/katex/</loc>
+    <loc>https://itaruki.github.io/blog/tags/katex/</loc>
     <lastmod>2019-07-07T02:00:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://itaruki.github.io/blog/docs/katex-support/</loc>
+    <loc>https://itaruki.github.io/blog/docs/katex-support/</loc>
     <lastmod>2019-07-07T02:00:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://itaruki.github.io/blog/authors/muniftanjim/</loc>
+    <loc>https://itaruki.github.io/blog/authors/muniftanjim/</loc>
     <lastmod>2019-09-28T21:00:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://itaruki.github.io/blog/tags/</loc>
+    <loc>https://itaruki.github.io/blog/tags/</loc>
     <lastmod>2019-09-28T21:00:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://itaruki.github.io/blog/tags/fuse.js/</loc>
+    <loc>https://itaruki.github.io/blog/tags/fuse.js/</loc>
     <lastmod>2018-07-20T20:00:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://itaruki.github.io/blog/tags/search/</loc>
+    <loc>https://itaruki.github.io/blog/tags/search/</loc>
     <lastmod>2018-07-20T20:00:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://itaruki.github.io/blog/docs/search-fuse-js/</loc>
+    <loc>https://itaruki.github.io/blog/docs/search-fuse-js/</loc>
     <lastmod>2018-07-20T20:00:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://itaruki.github.io/blog/tags/algolia/</loc>
+    <loc>https://itaruki.github.io/blog/tags/algolia/</loc>
     <lastmod>2018-07-05T23:30:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://itaruki.github.io/blog/docs/search-algolia/</loc>
+    <loc>https://itaruki.github.io/blog/docs/search-algolia/</loc>
     <lastmod>2018-07-05T23:30:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://itaruki.github.io/blog/tags/lunr.js/</loc>
+    <loc>https://itaruki.github.io/blog/tags/lunr.js/</loc>
     <lastmod>2018-07-05T20:30:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://itaruki.github.io/blog/docs/search-lunr-js/</loc>
+    <loc>https://itaruki.github.io/blog/docs/search-lunr-js/</loc>
     <lastmod>2018-07-05T20:30:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://itaruki.github.io/blog/docs/search-support/</loc>
+    <loc>https://itaruki.github.io/blog/docs/search-support/</loc>
     <lastmod>2018-07-06T01:30:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://itaruki.github.io/blog/docs/comments-support/</loc>
+    <loc>https://itaruki.github.io/blog/docs/comments-support/</loc>
     <lastmod>2019-07-12T23:00:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://itaruki.github.io/blog/docs/emoji-support/</loc>
+    <loc>https://itaruki.github.io/blog/docs/emoji-support/</loc>
     <lastmod>2018-02-27T21:00:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://itaruki.github.io/blog/docs/mathjax-support/</loc>
+    <loc>https://itaruki.github.io/blog/docs/mathjax-support/</loc>
     <lastmod>2019-09-28T21:00:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://itaruki.github.io/blog/docs/sidebar/</loc>
+    <loc>https://itaruki.github.io/blog/docs/sidebar/</loc>
     <lastmod>2018-03-29T05:20:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://itaruki.github.io/blog/docs/widgets/</loc>
+    <loc>https://itaruki.github.io/blog/docs/widgets/</loc>
     <lastmod>2018-11-21T19:00:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://itaruki.github.io/blog/tags/widgets/</loc>
+    <loc>https://itaruki.github.io/blog/tags/widgets/</loc>
     <lastmod>2018-11-21T19:00:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://itaruki.github.io/blog/tags/shortcode/</loc>
+    <loc>https://itaruki.github.io/blog/tags/shortcode/</loc>
     <lastmod>2019-07-07T02:00:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://itaruki.github.io/blog/docs/shortcodes/</loc>
+    <loc>https://itaruki.github.io/blog/docs/shortcodes/</loc>
     <lastmod>2019-07-07T02:00:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://itaruki.github.io/blog/docs/cover-image/</loc>
+    <loc>https://itaruki.github.io/blog/docs/cover-image/</loc>
     <lastmod>2018-06-04T23:00:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://itaruki.github.io/blog/page/</loc>
+    <loc>https://itaruki.github.io/blog/page/</loc>
     <lastmod>2017-09-28T08:00:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://itaruki.github.io/blog/tags/i18n/</loc>
+    <loc>https://itaruki.github.io/blog/tags/i18n/</loc>
     <lastmod>2017-09-27T14:00:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://itaruki.github.io/blog/tags/translation/</loc>
+    <loc>https://itaruki.github.io/blog/tags/translation/</loc>
     <lastmod>2017-09-27T14:00:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://itaruki.github.io/blog/docs/translation/</loc>
+    <loc>https://itaruki.github.io/blog/docs/translation/</loc>
     <lastmod>2017-09-27T14:00:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://itaruki.github.io/blog/tags/chroma/</loc>
+    <loc>https://itaruki.github.io/blog/tags/chroma/</loc>
     <lastmod>2017-09-27T12:00:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://itaruki.github.io/blog/tags/pygments/</loc>
+    <loc>https://itaruki.github.io/blog/tags/pygments/</loc>
     <lastmod>2017-09-27T12:00:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://itaruki.github.io/blog/docs/syntax-highlighting/</loc>
+    <loc>https://itaruki.github.io/blog/docs/syntax-highlighting/</loc>
     <lastmod>2017-09-27T12:00:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://itaruki.github.io/blog/tags/menus/</loc>
+    <loc>https://itaruki.github.io/blog/tags/menus/</loc>
     <lastmod>2018-05-24T02:10:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://itaruki.github.io/blog/docs/menus/</loc>
+    <loc>https://itaruki.github.io/blog/docs/menus/</loc>
     <lastmod>2018-05-24T02:10:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://itaruki.github.io/blog/tags/og/</loc>
+    <loc>https://itaruki.github.io/blog/tags/og/</loc>
     <lastmod>2017-10-11T18:00:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://itaruki.github.io/blog/docs/opengraph/</loc>
+    <loc>https://itaruki.github.io/blog/docs/opengraph/</loc>
     <lastmod>2017-10-11T18:00:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://itaruki.github.io/blog/tags/authors/</loc>
+    <loc>https://itaruki.github.io/blog/tags/authors/</loc>
     <lastmod>2017-10-11T17:30:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://itaruki.github.io/blog/docs/authors/</loc>
+    <loc>https://itaruki.github.io/blog/docs/authors/</loc>
     <lastmod>2017-10-11T17:30:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://itaruki.github.io/blog/docs/config-file/</loc>
+    <loc>https://itaruki.github.io/blog/docs/config-file/</loc>
     <lastmod>2018-02-08T15:15:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://itaruki.github.io/blog/categories/others/</loc>
+    <loc>https://itaruki.github.io/blog/categories/others/</loc>
     <lastmod>2018-02-08T15:15:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://itaruki.github.io/blog/categories/tutorial/</loc>
+    <loc>https://itaruki.github.io/blog/categories/tutorial/</loc>
     <lastmod>2018-02-08T15:00:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://itaruki.github.io/blog/docs/updating/</loc>
+    <loc>https://itaruki.github.io/blog/docs/updating/</loc>
     <lastmod>2018-02-08T14:45:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://itaruki.github.io/blog/docs/installation/</loc>
+    <loc>https://itaruki.github.io/blog/docs/installation/</loc>
     <lastmod>2018-02-08T15:00:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://itaruki.github.io/blog/search/</loc>
+    <loc>https://itaruki.github.io/blog/search/</loc>
   </url>
   
   <url>
-    <loc>http://itaruki.github.io/blog/series/</loc>
+    <loc>https://itaruki.github.io/blog/series/</loc>
   </url>
   
 </urlset>

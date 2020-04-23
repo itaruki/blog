@@ -1,4 +1,4 @@
-baseURL = "http://itaruki.github.io/blog"
+baseURL = "https://itaruki.github.io/blog"
 title = "Minimo"
 languageCode = "en-us"
 # for smart copyright line, leave this blank and check [params.copyright]
