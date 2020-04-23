@@ -1,6 +1,6 @@
 baseURL = "https://itaruki.github.io/blog"
 title = "Minimo"
-languageCode = "en-us"
+languageCode = "ja-jp"
 # for smart copyright line, leave this blank and check [params.copyright]
 copyright = ""
 publishDir = "docs"
